@@ -1,3 +1,4 @@
 [submodule "app/conduit"]
 	path = app/conduit
 	url = https://github.com/TonyMckes/conduit-realworld-example-app.git
+	ignore = dirty
